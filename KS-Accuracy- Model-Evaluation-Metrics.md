@@ -106,26 +106,40 @@ From this matrix, we derive many metrics:
 - Measures the model’s ability to distinguish classes over all classification thresholds.  
 - Values range from 0 to 1; closer to 1 indicates better discrimination.
 
+
 <br>
 
-## 3. Evaluation Metrics for Regression Models
+
+## [3](). Evaluation Metrics for Regression Models
 
 These measure error between predicted and actual numerical values.
 
-### Mean Absolute Error (MAE)
+<br>
+
+
+### [Mean Absolute Error (MAE)]():
+
 
 - Average of absolute differences between predicted and true values.  
 - Easy to interpret as it uses the same units as the predicted variable.
 
-### Mean Squared Error (MSE)
+<br>
 
-- Average of squared differences, penalizing larger errors.  
 
-### Root Mean Squared Error (RMSE)
+### [Mean Squared Error (MSE)]():
+
+- Average of squared differences, penalizing larger errors.
+
+<br>
+
+
+### [Root Mean Squared Error]() (RMSE):
 
 - Square root of MSE, with same units as predicted variable, useful for interpretation.
 
-### Coefficient of Determination (R²)
+
+
+### [Coefficient of Determination]() (R²):
 
 - Proportion of variance in the dependent variable explained by the model.
 
