@@ -29,19 +29,23 @@ From this matrix, we derive many metrics:
 ### Accuracy
 
 - **Definition:** The ratio of correct predictions (both positive and negative) to total predictions.  
-- **Formula:**  
-  $$
-  Accuracy = \frac{TP + TN}{TP + TN + FP + FN}
-  $$
+- **Formula:**
+- 
+ 
+###  Accuracy =  $\frac{TP + TN}{TP + TN + FP + FN} $
+
+  
 - **Limitation:** May be misleading on imbalanced datasets where one class dominates.
 
 ### Precision
 
 - **Definition:** The ratio of correctly predicted positives to all predicted positives.  
-- **Formula:**  
-  $$
-  Precision = \frac{TP}{TP + FP}
-  $$
+- **Formula:**
+
+  
+###  Precision =  $\frac{TP}{TP + FP} $
+  
+  
 - **Use case:** Important when false positives are costly (e.g., medical diagnoses to avoid false alarms).
 
 ### Recall (Sensitivity)
