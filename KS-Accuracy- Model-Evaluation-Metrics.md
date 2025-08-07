@@ -2,20 +2,38 @@
 
 # Complete Analysis of Model Evaluation Metrics in AI: KS, Accuracy and More
 
-## 1. Purpose of Model Evaluation
+<br>
+
+
+## [1](). Purpose of Model Evaluation
 
 Evaluating a machine learning (ML) model means measuring how well it performs its predictive task on new (unseen) data. This process is essential to ensure the model generalizes well and provides reliable predictions.
 
 There are two main types of supervised ML problems:
 
+<br>
+
+
 - **Classification models:** Predict categories (e.g., spam vs. not spam, positive vs. negative).  
 - **Regression models:** Predict numerical continuous values (e.g., price, temperature).
 
+- <br>
+
+
 Each type requires specific metrics for performance assessment.
 
-## 2. Evaluation Metrics for Classification Models
+<br>
 
-### Confusion Matrix
+
+## [2](). Evaluation Metrics for Classification Models
+
+<br>
+
+
+### [Confusion Matrix]()
+
+<br>
+
 
 A fundamental tool showing counts of predicted vs. actual classes:
 
@@ -24,15 +42,21 @@ A fundamental tool showing counts of predicted vs. actual classes:
 | **True Positive (TP)** | Correct positive    | False negative     |
 | **True Negative (TN)** | False positive      | Correct negative    |
 
+
+<br>
+
 From this matrix, we derive many metrics:
 
-### Accuracy
+
+<br>
+
+### [Accuracy]():
 
 - **Definition:** The ratio of correct predictions (both positive and negative) to total predictions.  
 - **Formula:**
-- 
+  
  
-###  Accuracy =  $\frac{TP + TN}{TP + TN + FP + FN} $
+###  [Accuracy]() =  $\frac{TP + TN}{TP + TN + FP + FN}$
 
   
 - **Limitation:** May be misleading on imbalanced datasets where one class dominates.
@@ -43,7 +67,7 @@ From this matrix, we derive many metrics:
 - **Formula:**
 
   
-###  Precision =  $\frac{TP}{TP + FP} $
+###  [Precision]()  =  $\frac{TP}{TP + FP}$
   
   
 - **Use case:** Important when false positives are costly (e.g., medical diagnoses to avoid false alarms).
@@ -51,25 +75,38 @@ From this matrix, we derive many metrics:
 ### Recall (Sensitivity)
 
 - **Definition:** The ratio of correctly predicted positives to all actual positives.  
-- **Formula:**  
-  $$
-  Recall = \frac{TP}{TP + FN}
-  $$
+- **Formula:**
+  
+  
+###  [Recall]()  =  $\frac{TP}{TP + FN}$
+  
+
 - **Use case:** Vital when it is important to detect all positives (e.g., fraud detection).
 
-### F1 Score
+
+
+### [F1 Score]():
 
 - **Definition:** Harmonic mean of Precision and Recall, balancing both.  
-- **Formula:**  
-  $$
-  F1 = 2 \times \frac{Precision \times Recall}{Precision + Recall}
-  $$
+- **Formula:**
+
+  
+
+###  [F1]()  = $2 \times \frac{Precision \times Recall}{Precision + Recall}$
+  
+
+  
 - **Useful when:** Classes are imbalanced and both precision and recall matter.
 
-### AUC-ROC (Area Under ROC Curve)
+
+
+
+### [AUC-ROC (Area Under ROC Curve)]()
 
 - Measures the model’s ability to distinguish classes over all classification thresholds.  
 - Values range from 0 to 1; closer to 1 indicates better discrimination.
+
+<br>
 
 ## 3. Evaluation Metrics for Regression Models
 
