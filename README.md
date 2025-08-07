@@ -64,7 +64,7 @@ Social networks shape consumer vibes daily. [Our mission ?]() Turn raw social da
 
 <br>
 
-## Repo folder structure in English
+## [Repo Structure](0
 
 <br>
 
