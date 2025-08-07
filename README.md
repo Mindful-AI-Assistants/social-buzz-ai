@@ -123,29 +123,39 @@ A true data-driven culture transforms how decisions are made: it places evidence
 
 🌱 Leaders play a critical role by modeling data-informed behavior and demanding accountability grounded in facts. When done right, data guides innovation, risk management, and performance — freeing organizations from guesswork and enabling faster, smarter responses to change.
 
-<br.
+<br>
 
-### [Common Pitfalls to Avoid](0
+### [Common Pitfalls to Avoid]()
+
 - Post-hoc justification with data ("data fishing") to back a preconceived decision.  
+
 - Overconfidence in intuition ignoring analytical insights.  
+
 - Lack of data literacy and accessibility, which leads to misuse or mistrust of data.
+
 
 <br>
 
-###[ Data Quality Challenges in CRM Systems](0
+### [Data Quality Challenges in CRM Systems]()
 
 Quality of CRM data critically affects the insights used to drive marketing, sales, and customer support efforts.
 
 According to the 2023 study *"The State of CRM Data Quality"* by Validity (a leading provider of email marketing intelligence and CRM data management):
 
 - [**76%**]() of respondents rated the quality of their CRM data as "good" or "very good". Yet, many still see poor data quality as a barrier limiting new sales opportunities.  
+
 - [**79%**]() agree that data deterioration has accelerated at an unprecedented pace, driven notably by pandemic-related disruptions.  
-- [**75%**]() admit employees sometimes fabricate data to tell the story they want decision-makers to hear, rather than reflect reality. ⚠️  
+
+- [**75%**  ⚠️]() admit employees sometimes fabricate data to tell the story they want decision-makers to hear, rather than reflect reality.
+
 - Meanwhile, **82%** report pressure to find numbers supporting a specific narrative versus providing accurate, objective information.
 
 These findings highlight a paradox in CRM data management: organizations recognize the importance of data quality but struggle with cultural and operational challenges that degrade trust and utility.
 
-### Key Takeaways for Social Buzz AI Project
+
+<br>
+
+### [Key Takeaways for Social Buzz AI Project]()
 
 - Promote *data integrity* and discourage “storytelling” with selective or fabricated data.  
 - Foster transparent data governance and regular audits to ensure CRM data accuracy and completeness.  
