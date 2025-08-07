@@ -77,7 +77,7 @@ social-buzz-ai/
 ├── .gitignore
 │
 ├── config/
-│   └── README.md            # Optional, detailed configuration documentation
+│   └── README.md           
 │
 ├── data/                    # Raw and processed data (example: twitter_data.json)
 │
