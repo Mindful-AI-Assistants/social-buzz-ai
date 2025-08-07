@@ -152,7 +152,7 @@ According to the 2023 study *"The State of CRM Data Quality"* by Validity (a lea
 
 - [**75%**  ⚠️]() admit employees sometimes fabricate data to tell the story they want decision-makers to hear, rather than reflect reality.
 
-- Meanwhile, **82%** report pressure to find numbers supporting a specific narrative versus providing accurate, objective information.
+- Meanwhile, [**82%**]() report pressure to find numbers supporting a specific narrative versus providing accurate, objective information.
 
 These findings highlight a paradox in CRM data management: organizations recognize the importance of data quality but struggle with cultural and operational challenges that degrade trust and utility.
 
