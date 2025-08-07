@@ -147,6 +147,8 @@ Quality of CRM data critically affects the insights used to drive marketing, sal
 
 According to the 2023 study *"The State of CRM Data Quality"* by Validity (a leading provider of email marketing intelligence and CRM data management):
 
+<br>
+
 - [**76%**]() of respondents rated the quality of their CRM data as "good" or "very good". Yet, many still see poor data quality as a barrier limiting new sales opportunities.  
 
 - [**79%**]() agree that data deterioration has accelerated at an unprecedented pace, driven notably by pandemic-related disruptions.  
