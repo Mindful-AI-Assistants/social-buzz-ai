@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment
+.env
+
+# Data
+/data/*.csv
+/data/*.json
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Others
+.DS_Store
