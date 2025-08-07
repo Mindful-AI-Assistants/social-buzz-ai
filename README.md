@@ -34,7 +34,8 @@ https://github.com/user-attachments/assets/064aa6f8-ebb4-4370-8efd-7d79b29f390a
 ## Table of Contents
 
 - [What’s This?](#whats-this)  
-- [Why It Matters](#why-it-matters)  
+- [Why It Matters](#why-it-matters)
+- [Data-Driven Culture and CRM Data Quality]() 
 - [Project Objectives](#project-objectives)  
 - [What We’re Building](#what-were-building)  
 - [Repo Breakdown](#repo-breakdown)  
@@ -107,7 +108,7 @@ social-buzz-ai/
 
 <br>
 
-### Embracing a True Data-Driven Culture
+### Embracing a [True]() Data-Driven Culture
 
 <br>
 
