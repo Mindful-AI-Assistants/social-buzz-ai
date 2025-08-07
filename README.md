@@ -8,11 +8,41 @@
 **Professor:** Erick Bacconi  
 
 
+<br><br>
 
 
 
 
 
+
+
+
+
+<br><br>
+
+## Table of Contents
+
+- [What’s This?](#whats-this)  
+- [Why It Matters](#why-it-matters)  
+- [Project Objectives](#project-objectives)  
+- [What We’re Building](#what-were-building)  
+- [Repo Breakdown](#repo-breakdown)  
+- [Tech Stack & Tools](#tech-stack--tools)  
+- [Metrics & KPIs We Track](#metrics--kpis-we-track)  
+- [Getting Started — Move Fast, Start Simple](#getting-started--move-fast-start-simple)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+  - [Quick Run](#quick-run)  
+  - [Environment Setup](#environment-setup)  
+- [How to Use This Repo](#how-to-use-this-repo)  
+- [Important Notes & Best Practices](#important-notes--best-practices)  
+- [Scripts Overview](#scripts-overview)  
+  - [`fetch_twitter_data.py`](#fetch_twitter_datapy)  
+  - [`run_dashboard.py`](#run_dashboardpy)  
+  - [`generate_reports.py`](#generate_reportspy)  
+- [Team Hustlers](#team-hustlers)  
+- [Contact & Support](#contact--support)  
+- [Appendix: Example Social Media Report Template (Summary)](#appendix-example-social-media-report-template-summary)  
 
 
 <br>
