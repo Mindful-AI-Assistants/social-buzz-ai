@@ -1,2 +1,58 @@
-# social-buzz-ai
- Repository for the Integrated Project of the Social Networks and Marketing course at PUC-SP, focusing on AI-driven analysis and marketing strategies based on social media data
+
+<br>
+
+## <p align="center">  Social [Buzz]() AI
+
+**Course:** Humanistic AI & Data Science (4th Semester)  
+**Institution:** PUC-SP  
+**Professor:** Erick Bacconi  
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+<br><br>
+
+## Table of Contents
+
+- [What’s This?](#whats-this)  
+- [Why It Matters](#why-it-matters)  
+- [Project Objectives](#project-objectives)  
+- [What We’re Building](#what-were-building)  
+- [Repo Breakdown](#repo-breakdown)  
+- [Tech Stack & Tools](#tech-stack--tools)  
+- [Metrics & KPIs We Track](#metrics--kpis-we-track)  
+- [Getting Started — Move Fast, Start Simple](#getting-started--move-fast-start-simple)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+  - [Quick Run](#quick-run)  
+  - [Environment Setup](#environment-setup)  
+- [How to Use This Repo](#how-to-use-this-repo)  
+- [Important Notes & Best Practices](#important-notes--best-practices)  
+- [Scripts Overview](#scripts-overview)  
+  - [`fetch_twitter_data.py`](#fetch_twitter_datapy)  
+  - [`run_dashboard.py`](#run_dashboardpy)  
+  - [`generate_reports.py`](#generate_reportspy)  
+- [Team Hustlers](#team-hustlers)  
+- [Contact & Support](#contact--support)  
+- [Appendix: Example Social Media Report Template (Summary)](#appendix-example-social-media-report-template-summary)  
+
+
+<br>
+
+Welcome to **Social Buzz AI** — our MVP for cracking the code on social media trends and delivering laser-focused marketing hacks powered by data and AI. Built for the Social Networks and Marketing course at PUC-SP, this repo is the playground where we prototype, test, and evolve smart tools to help brands dominate digital spaces through real data-driven insights.
+
+<br>
+
+## Why It Matters
+
+Social networks shape consumer vibes daily. Our mission? Turn raw social data into actionable intel and hyper-targeted campaigns that scale fast, maximize reach, and boost ROI. By bridging social media analytics with AI, we empower marketers with the intelligence to win attention, engagement, and conversions.
+
+<br>
