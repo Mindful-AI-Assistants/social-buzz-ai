@@ -112,18 +112,20 @@ social-buzz-ai/
 <br>
 
 🚫 [**What NOT to do**]()
+
 - Executives decide first, then look for data to support their decisions.  
 - Rely solely on instinct or gut feelings to make decisions.
 
 <br>
 
 ✅ [**What TO do**]()
+
 - Let data not only indicate *that* a decision is needed but also *which* decision is optimal, based on evidence.  
 - Managers and leaders must take responsibility to moderate and validate decisions using what data reveals, rather than personal biases or unsupported opinions.
 
 A true data-driven culture transforms how decisions are made: it places evidence at the center of all strategic and operational choices. This means building trust in data, fostering transparency, and encouraging teams to adopt analytic thinking as a core mindset.
 
-🌱 Leaders play a critical role by modeling data-informed behavior and demanding accountability grounded in facts. When done right, data guides innovation, risk management, and performance — freeing organizations from guesswork and enabling faster, smarter responses to change.
+🌱 Leaders play a critical role by modeling data-informed behavior and demanding accountability grounded in facts. When done right, data guides innovation, risk management, and performance, freeing organizations from guesswork and enabling faster, smarter responses to change.
 
 <br>
 
