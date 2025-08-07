@@ -3,9 +3,9 @@
 
 # <p align="center">  Social [Buzz]() AI
 
-**Course:** Humanistic AI & Data Science (4th Semester)  
-**Institution:** PUC-SP  
-**Professor:** Erick Bacconi  
+[**Course:**]() Humanistic AI & Data Science (4th Semester)  
+[**Institution:**]() PUC-SP  
+**Professor:** [Erick Bacconi]()  
 
 
 <br><br>
