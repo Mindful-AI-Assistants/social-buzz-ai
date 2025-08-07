@@ -123,7 +123,7 @@ social-buzz-ai/
 - Let data not only indicate *that* a decision is needed but also *which* decision is optimal, based on evidence.  
 - Managers and leaders must take responsibility to moderate and validate decisions using what data reveals, rather than personal biases or unsupported opinions.
 
-A true data-driven culture transforms how decisions are made: it places evidence at the center of all strategic and operational choices. This means building trust in data, fostering transparency, and encouraging teams to adopt analytic thinking as a core mindset.
+A true data-driven culture transforms how decisions are made: it places evidence at the center of all strategic and operational choices. This means [building trust in data](), fostering [transparency](), and [encouraging teams]() to adopt analytic [thinking] as a core [mindset]().
 
 🌱 Leaders play a critical role by modeling data-informed behavior and demanding accountability grounded in facts. When done right, data guides innovation, risk management, and performance, freeing organizations from guesswork and enabling faster, smarter responses to change.
 
@@ -167,5 +167,8 @@ These findings highlight a paradox in CRM data management: organizations recogni
 - Integrate data quality metrics in your dashboards to continuously monitor and improve CRM data health.  
 - Align data-driven practices organization-wide—from executives to frontline users—to build a resilient, trustworthy foundation for marketing and AI initiatives.
 
-By addressing both the behavioral shifts toward authentic data-driven decision-making and acknowledging the persistent hurdles in CRM data quality, your project can help build powerful, trustworthy tools that support smarter, evidence-based marketing strategies.
+<br>
 
+### 🌱 By addressing [both]() the behavioral shifts toward [authentic data-driven decision-making]() and acknowledging the persistent hurdles in [CRM data quality](), your project can help build powerful, trustworthy tools that support smarter, evidence-based marketing strategies.
+
+<br>
