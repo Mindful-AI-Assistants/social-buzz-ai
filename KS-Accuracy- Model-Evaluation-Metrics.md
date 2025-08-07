@@ -295,6 +295,163 @@ print(f"AUC: {auc:.2f}")
 
 <br>
 
+# Visualizing Classification Metrics in Python
+
+## 1. Confusion Matrix Visualization
+
+<br>
+
+```python
+import matplotlib.pyplot as plt
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.datasets import load_iris
+
+# Sample dataset and model
+X, y = load_iris(return_X_y=True)
+y = (y == 2).astype(int)  # Binary classification
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.8, random_state=42)
+model = LogisticRegression(random_state=42, max_iter=200)
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
+
+# Compute confusion matrix
+cm = confusion_matrix(y_test, y_pred)
+
+# Plot confusion matrix
+disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=model.classes_)
+disp.plot(cmap=plt.cm.Blues)
+plt.title("Confusion Matrix")
+plt.show()
+```
+
+<br>
+
+## 2. ROC Curve Visualization
+
+<br>
+
+```python
+from sklearn.metrics import RocCurveDisplay
+
+# ROC Curve for fitted model and test data
+RocCurveDisplay.from_estimator(model, X_test, y_test)
+plt.title("ROC Curve")
+plt.show()
+```
+
+<br>
+
+Alternatively, with predicted probabilities:
+
+<br>
+
+```python
+y_probs = model.predict_proba(X_test)[:, 1]  # Probabilities for positive class
+
+from sklearn.metrics import roc_curve, auc
+import matplotlib.pyplot as plt
+
+fpr, tpr, thresholds = roc_curve(y_test, y_probs)
+roc_auc = auc(fpr, tpr)
+
+plt.plot(fpr, tpr, color='darkorange', lw=2, label=f'ROC curve (area = {roc_auc:.2f})')
+plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.title('ROC Curve')
+plt.legend(loc="lower right")
+plt.show()
+```
+
+<br>
+
+## 3. Precision-Recall Curve Visualization
+
+<br>
+
+```python
+from sklearn.metrics import precision_recall_curve, PrecisionRecallDisplay
+
+y_probs = model.predict_proba(X_test)[:, 1]
+
+PrecisionRecallDisplay.from_predictions(y_test, y_probs)
+plt.title("Precision-Recall Curve")
+plt.show()
+```
+
+<br>
+
+
+## 4. KS Statistic Visualization (Empirical CDFs)
+
+You can visualize KS by plotting empirical cumulative distribution functions (CDF) for the predicted scores for positive and negative classes:
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Separate predicted scores by class
+scores_pos = y_probs[y_test == 1]
+scores_neg = y_probs[y_test == 0]
+
+def ecdf(data):
+    x = np.sort(data)
+    y = np.arange(1, len(x) + 1) / len(x)
+    return x, y
+
+x_pos, y_pos = ecdf(scores_pos)
+x_neg, y_neg = ecdf(scores_neg)
+
+plt.step(x_pos, y_pos, label='Positive Class CDF')
+plt.step(x_neg, y_neg, label='Negative Class CDF')
+plt.xlabel('Predicted Score')
+plt.ylabel('Cumulative Probability')
+plt.title('KS Statistic Visualization')
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
+ v
+
+The [KS statistic]() is the maximum vertical distance between these two curves.
+
+## 5. Additional Metrics Plot Example: Learning Curve
+
+<br>
+
+```python
+from sklearn.model_selection import learning_curve
+import numpy as np
+
+train_sizes, train_scores, val_scores = learning_curve(
+    model, X, y, cv=5, scoring='accuracy', train_sizes=np.linspace(0.1, 1.0, 5)
+)
+
+train_mean = np.mean(train_scores, axis=1)
+val_mean = np.mean(val_scores, axis=1)
+
+plt.plot(train_sizes, train_mean, label='Training Accuracy')
+plt.plot(train_sizes, val_mean, label='Validation Accuracy')
+plt.xlabel('Training Set Size')
+plt.ylabel('Accuracy')
+plt.title('Learning Curve')
+plt.legend()
+plt.grid(True)
+plt.show()
+```
+
+# Explanation of Metrics Visualizations:
+
+- **Confusion Matrix**: displays exact counts of correct and incorrect predictions, helping identify types of errors.
+- **ROC Curve**: shows trade-off between True Positive Rate and False Positive Rate across thresholds.
+- **Precision-Recall Curve**: focuses on identifying positive cases correctly, especially useful for imbalanced datasets.
+- **KS Curve**: displays cumulative distribution functions of predicted scores for positive vs negative classes; the max gap is the KS statistic.
+- **Learning Curve**: visualizes model performance as training size increases, useful for diagnosing under/overfitting.
+
 
 
 
