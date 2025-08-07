@@ -149,13 +149,21 @@ According to the 2023 study *"The State of CRM Data Quality"* by Validity (a lea
 
 <br>
 
-- [**76%**]() of respondents rated the quality of their CRM data as "good" or "very good". Yet, many still see poor data quality as a barrier limiting new sales opportunities.  
+- [**76%**]() of respondents rated the quality of their CRM data as "good" or "very good". Yet, many still see poor data quality as a barrier limiting new sales opportunities.
+
+  <br>
 
 - [**79%**]() agree that data deterioration has accelerated at an unprecedented pace, driven notably by pandemic-related disruptions.  
 
+<br>
+
 - [⚠️ **75%**]() admit [employees]() sometimes [fabricate data]() to tell the story [they want]() decision-makers [to hear, rather than reflect reality]().
 
+<br>
+
 - Meanwhile, [**82%**]() report pressure to find numbers supporting a specific narrative versus providing accurate, objective information.
+
+<br>
 
 These findings highlight a paradox in CRM data management: organizations recognize the importance of data quality but struggle with cultural and operational challenges that degrade trust and utility.
 
