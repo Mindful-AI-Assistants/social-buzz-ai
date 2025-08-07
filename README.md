@@ -1,7 +1,7 @@
 
 <br>
 
-# <p align="center">  Social [Buzz]() AI
+# <p align="center">  Social [Buzz AI]()
 
 [**Course:**]() Humanistic AI & Data Science (4th Semester)  
 [**Institution:**]() PUC-SP  
