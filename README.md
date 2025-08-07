@@ -151,7 +151,7 @@ According to the 2023 study *"The State of CRM Data Quality"* by Validity (a lea
 
 - [**79%**]() agree that data deterioration has accelerated at an unprecedented pace, driven notably by pandemic-related disruptions.  
 
-- [**75%**  ⚠️]() admit employees sometimes fabricate data to tell the story they want decision-makers to hear, rather than reflect reality.
+- [**75%**  ⚠️]() admit [employees]() sometimes [fabricate data]() to tell the story [they want]() decision-makers [to hear, rather than reflect reality]().
 
 - Meanwhile, [**82%**]() report pressure to find numbers supporting a specific narrative versus providing accurate, objective information.
 
