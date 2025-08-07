@@ -58,7 +58,7 @@ Welcome to **Social Buzz AI** — our MVP for cracking the code on social media 
 
 <br>
 
-## Why It Matters
+## [Why It Matters]()
 
 Social networks shape consumer vibes daily. Our mission? Turn raw social data into actionable intel and hyper-targeted campaigns that scale fast, maximize reach, and boost ROI. By bridging social media analytics with AI, we empower marketers with the intelligence to win attention, engagement, and conversions.
 
