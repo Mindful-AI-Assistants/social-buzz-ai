@@ -145,7 +145,7 @@ A true data-driven culture transforms how decisions are made: it places evidence
 
 Quality of CRM data critically affects the insights used to drive marketing, sales, and customer support efforts.
 
-According to the 2023 study *"The State of CRM Data Quality"* by Validity (a leading provider of email marketing intelligence and CRM data management):
+According to the 2023 study [*"The State of CRM Data Quality"*]() by Validity (a leading provider of email marketing intelligence and CRM data management):
 
 <br>
 
