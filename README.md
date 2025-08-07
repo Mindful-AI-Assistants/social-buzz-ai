@@ -8,8 +8,14 @@
 **Professor:** [Erick Bacconi]()  
 
 
-<br><br>
 
+<br>
+
+
+Welcome to **Social Buzz AI** — our MVP for cracking the code on social media trends and delivering laser-focused marketing hacks powered by data and AI. Built for the Social Networks and Marketing course at PUC-SP, this repo is the playground where we prototype, test, and evolve smart tools to help brands dominate digital spaces through real data-driven insights.
+
+
+<br><br>
 
 <!--GIF  -->
 
@@ -21,8 +27,6 @@
 <!--Video
 https://github.com/user-attachments/assets/064aa6f8-ebb4-4370-8efd-7d79b29f390a
 -->
-
-
 
 
 <br><br>
@@ -51,10 +55,6 @@ https://github.com/user-attachments/assets/064aa6f8-ebb4-4370-8efd-7d79b29f390a
 - [Contact & Support](#contact--support)  
 - [Appendix: Example Social Media Report Template (Summary)](#appendix-example-social-media-report-template-summary)  
 
-
-<br>
-
-Welcome to **Social Buzz AI** — our MVP for cracking the code on social media trends and delivering laser-focused marketing hacks powered by data and AI. Built for the Social Networks and Marketing course at PUC-SP, this repo is the playground where we prototype, test, and evolve smart tools to help brands dominate digital spaces through real data-driven insights.
 
 <br>
 
