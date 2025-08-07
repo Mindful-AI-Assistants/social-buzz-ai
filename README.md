@@ -1,2 +1,8 @@
-# social-buzz-ai
- Repository for the Integrated Project of the Social Networks and Marketing course at PUC-SP, focusing on AI-driven analysis and marketing strategies based on social media data
+
+<br>
+
+## <p align="center">  Social Buzz AI
+
+Welcome to **Social Buzz AI** — our MVP for cracking the code on social media trends and delivering laser-focused marketing hacks powered by data and AI. Built for the Social Networks and Marketing course at PUC-SP, this repo is the playground where we prototype, test, and evolve smart tools to help brands dominate digital spaces through real data-driven insights.
+
+<br>
