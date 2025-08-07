@@ -174,7 +174,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 [-]() Promote *data integrity* and discourage “storytelling” with selective or fabricated data.  
 
-- Foster transparent data governance and regular audits to ensure CRM data accuracy and completeness.  
+[-]() Foster transparent data governance and regular audits to ensure CRM data accuracy and completeness.  
 
 - Empower teams with tools and training to interpret CRM data critically, using it as a guide rather than a biased narrative.  
 
