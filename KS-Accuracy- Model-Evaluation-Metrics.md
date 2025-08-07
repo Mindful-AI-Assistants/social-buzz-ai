@@ -250,8 +250,50 @@ You will see the ROC curve showing the trade-off between sensitivity and specifi
 
 <br>
 
+Below are Python code snippets showing how to calculate **Precision**, **Recall**, **F1 Score**, and **AUC** using scikit-learn, including a minimal example with true labels and predicted probabilities/scores.
+
+<br>
+
+```python
+from sklearn.metrics import precision_score, recall_score, f1_score, roc_auc_score
+
+# Sample true labels (binary)
+y_true = [1, 0, 1, 1, 0, 0, 1, 0, 0, 1]
+
+# Predicted labels (after applying a classification threshold, e.g., 0.5)
+y_pred = [1, 0, 1, 1, 0, 0, 0, 0, 1, 1]
+
+# Predicted scores or probabilities (usually output from model.predict_proba or model.decision_function)
+y_scores = [0.9, 0.1, 0.8, 0.75, 0.3, 0.4, 0.45, 0.2, 0.6, 0.85]
+
+# Calculate Precision
+precision = precision_score(y_true, y_pred)
+print(f"Precision: {precision:.2f}")
+
+# Calculate Recall
+recall = recall_score(y_true, y_pred)
+print(f"Recall: {recall:.2f}")
+
+# Calculate F1 Score
+f1 = f1_score(y_true, y_pred)
+print(f"F1 Score: {f1:.2f}")
+
+# Calculate AUC (Area Under the ROC Curve)
+auc = roc_auc_score(y_true, y_scores)
+print(f"AUC: {auc:.2f}")
+```
+
+<br>
+
+### Explanation:
+
+- **Precision** is the proportion of predicted positive instances that are actually positive.
+- **Recall** (or Sensitivity) is the proportion of actual positive instances that are correctly predicted.
+- **F1 Score** is the harmonic mean of precision and recall and balances both.
+- **AUC** uses the raw predicted scores/probabilities (not thresholded) and measures the model's ability to rank positives higher than negatives.
 
 
+<br>
 
 
 
