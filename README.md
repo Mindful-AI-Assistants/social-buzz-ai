@@ -60,6 +60,6 @@ https://github.com/user-attachments/assets/064aa6f8-ebb4-4370-8efd-7d79b29f390a
 
 ## [Why It Matters]()
 
-Social networks shape consumer vibes daily. [Our mission ?]() Turn raw social data into actionable intel and hyper-targeted campaigns that scale fast, maximize reach, and boost ROI. By bridging social media analytics with AI, [we empower marketers]() with the intelligence to win attention, engagement, and conversions.
+Social networks shape consumer vibes daily. [Our mission ?]() Turn raw social data into actionable intel and hyper-targeted campaigns that scale fast, maximize reach, and boost [ROI]() (Return on Investment). By bridging social media analytics with AI, [we empower marketers]() with the intelligence to win attention, engagement, and conversions.
 
 <br>
