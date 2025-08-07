@@ -132,11 +132,11 @@ A true data-driven culture transforms how decisions are made: it places evidence
 
 ### [Common Pitfalls to Avoid]()
 
-- Post-hoc justification with data ("data fishing") to back a preconceived decision.  
+[-]() Post-hoc justification with data ("data fishing") to back a preconceived decision.  
 
-- Overconfidence in intuition ignoring analytical insights.  
+[-]() Overconfidence in intuition ignoring analytical insights.  
 
-- Lack of data literacy and accessibility, which leads to misuse or mistrust of data.
+[-]() Lack of data literacy and accessibility, which leads to misuse or mistrust of data.
 
 
 <br>
@@ -168,7 +168,8 @@ According to the 2022 study [*"The State of CRM Data Quality"*]() by Validity (a
 These findings highlight a [paradox in CRM data management](): organizations recognize the importance of [data quality]() but [struggle]() with cultural and operational [challenges]() that [degrade trust]() and [utility]().
 
 
-<br>
+<br><br>
+
 
 ### [Key Takeaways for Social Buzz AI Project]()
 
