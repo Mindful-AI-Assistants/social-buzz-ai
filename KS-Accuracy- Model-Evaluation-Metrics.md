@@ -165,9 +165,13 @@ Suppose after sorting model prediction scores from lowest to highest, you have c
 | 0.8             | 0.8          | 0.4          | 0.40                |
 | 1.0             | 1.0          | 0.7          | 0.30                |
 
+
+
 The **KS statistic = max absolute difference = 0.40**
 
 This indicates the point at which the model best separates positive and negative classes.
+
+<br>
 
 # 2. Python Code Snippets to Compute KS and Accuracy
 
@@ -197,7 +201,11 @@ ks_statistic, ks_pvalue = ks_2samp(scores_pos, scores_neg)
 print(f"KS Statistic: {ks_statistic:.3f}, p-value: {ks_pvalue:.3f}")
 ```
 
+<br>
+
 # 3. Visualizations: ROC and KS Curves
+
+<br>
 
 ```python
 # ROC curve plot
@@ -236,7 +244,11 @@ plt.tight_layout()
 plt.show()
 ```
 
+<br>
+
 You will see the ROC curve showing the trade-off between sensitivity and specificity and the KS curve which plots the empirical CDFs of positive vs negative predicted scores. The KS statistic corresponds to the maximum vertical gap between these two CDF curves.
+
+<br>
 
 # 4. Explanation of Other Important Metrics: Precision, Recall, F1, AUC
 
