@@ -109,6 +109,8 @@ social-buzz-ai/
 
 ### Embracing a True Data-Driven Culture
 
+<br>
+
 🚫 [**What NOT to do**]()
 - Executives decide first, then look for data to support their decisions.  
 - Rely solely on instinct or gut feelings to make decisions.
