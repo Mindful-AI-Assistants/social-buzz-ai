@@ -250,7 +250,9 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 <br>
 
 
-## [Tech Stack & Tools](()
+## [Tech Stack & Tools]()
+
+<br>
 
 - **Python:** Pandas, NumPy, Scikit-learn, TensorFlow, Hugging Face Transformers for NLP  
 - **Jupyter:** Interactive notebooks for agile analysis and prototyping  
