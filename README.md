@@ -209,6 +209,15 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 <br>
 
 
+## [Project Objectives]()
+
+- Understand and quantify how social networks influence consumer behavior and decision-making  
+- Apply advanced data science methods to mine social media data for patterns and trends  
+- Develop AI-driven algorithms for personalized and precision-targeted marketing campaigns  
+- Build dashboards, visualizations, and automated reports that drive fast, confident marketing decisions  
+- Enable performance tracking with actionable KPIs and data storytelling to optimize future marketing sprints
+
+
 
 
 
