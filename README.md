@@ -232,6 +232,18 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 <br>
 
 
+## [Repo Breakdown](()
+
+```
+/data           \# Raw and processed datasets from social media feeds
+/notebooks      \# Jupyter notebooks for data exploration, feature engineering, and modeling
+/scripts        \# Python automation scripts for ETL, model training, evaluation, and visualization
+/docs           \# Documentation, reports, analytics playbooks, and strategic insights
+/presentation   \# Presentation decks and sprint review materials for stakeholders
+/models         \# Serialized ML models and model training artifacts
+/tests          \# Unit and integration tests to ensure code quality and reliability
+/config         \# Configuration files and environment setup scripts
+```
 
 
 
