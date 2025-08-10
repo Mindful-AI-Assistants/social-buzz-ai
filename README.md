@@ -5,7 +5,7 @@
 
 [**Course:**]() Humanistic AI & Data Science (4th Semester)  
 [**Institution:**]() PUC-SP  
-**Professor:** [Erick Bacconi]()  
+**Professor:** [Erick Bacconi](https://www.linkedin.com/in/eric-bacconi-423137/)  
 
 
 
