@@ -254,7 +254,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 <br>
 
-- **Python:** Pandas, NumPy, Scikit-learn, TensorFlow, Hugging Face Transformers for NLP  
+- [**Python:**]() Pandas, NumPy, Scikit-learn, TensorFlow, Hugging Face Transformers for NLP  
 - **Jupyter:** Interactive notebooks for agile analysis and prototyping  
 - **APIs:** Twitter API, Instagram Graph API for real-time data  
 - **Visualization:** Matplotlib, Seaborn, Plotly, and Dash for dashboards  
