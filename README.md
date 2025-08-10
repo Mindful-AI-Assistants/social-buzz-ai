@@ -218,10 +218,18 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 - Enable performance tracking with actionable KPIs and data storytelling to optimize future marketing sprints
 
 
+<br>
+
+## [What We’re Building]()
+
+- Real-time and historical insights on social buzz and consumer sentiment  
+- Data pipelines to ingest, clean, and structure social feed data from APIs (e.g., Twitter, Instagram)  
+- Machine learning models for trend detection, sentiment classification, and campaign targeting  
+- Interactive dashboards and visual storytelling assets for marketing teams  
+- Automated reporting tools providing metric tracking, growth analysis, and ROI evaluations  
 
 
-
-
+<br>
 
 
 
