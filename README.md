@@ -258,7 +258,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 - [**Jupyter:**]()  Interactive notebooks for agile analysis and prototyping  
 - [**APIs:**]()  Twitter API, Instagram Graph API for real-time data  
 - [**Visualization:**]()  Matplotlib, Seaborn, Plotly, and Dash for dashboards  
-- **Data Storage:** CSV, JSON, and databases for scalable data management  
+- [**Data Storage:**]()  CSV, JSON, and databases for scalable data management  
 - [**Version Control:**]()  Git and GitHub for source and collaboration management  
 - [**CI/CD:**]()  GitHub Actions for tests and automation  
 - [**Containerization:**]()  Docker for environment consistency (optional, for advanced setup)  
