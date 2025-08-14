@@ -188,7 +188,7 @@ According to the 2022 study [*"The State of CRM Data Quality"*]() by Validity (a
 
 <br>
 
-- [⚠️ **75%** 🙂]() admit [employees]() sometimes [fabricate data]() to tell the story [they want]() decision-makers to hear, rather than [reflect reality]().
+- [⚠️ **75%**]() admit [employees]() sometimes [fabricate data]() to tell the story [they want]() decision-makers to hear, rather than [reflect reality](). 🙂
 
 <br>
 
