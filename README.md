@@ -123,7 +123,7 @@ social-buzz-ai/
 ```
 
 
-<br>
+<br><br>
 
 ## I - [Data-Driven Culture and CRM Data Quality]()  
 
@@ -225,11 +225,16 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 ### 🌱 By addressing [both]() the [behavioral shifts]() toward [authentic data-driven decision-making]() and acknowledging the persistent hurdles in [CRM data quality](), your project can help build [powerful, trustworthy]() tools that support smarter, evidence-based marketing strategies.
 
+
+<br><br>
+
+## II - [Marketing 4.0]()
+
 <br>
 
+☞ [Access Support Material](https://github.com/Mindful-AI-Assistants/social-buzz-ai/blob/7789bc13ed3133dadb0543e1c245cfe429fc5f3b/class_2%20-%20MKT%204.0%20-%20Philip%20Kotler/Marketin%20g%204.0%20-%20Philip%20Kotler.pdf)
 
-
-
+<br>
 
 
 
