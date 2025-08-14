@@ -369,9 +369,15 @@ cp .env.example .env
 
 <br>
 
+Open `.env` and fill in your Twitter and Instagram API credentials securely.  
 
+Remember: [**never commit**]() `.env` files with [**sensitive info to git.**]()
 
+<br>
 
+Our code uses `python-dotenv` to load these variables during runtime.
+
+<br>
 
 
 
