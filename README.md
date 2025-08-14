@@ -300,7 +300,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 <br>
 
-### Prerequisites
+### [Prerequisites]()
 
 - Python 3.8+  
 - pip (Python package manager)  
@@ -308,7 +308,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 <br>
 
-### Installation
+### [Installation]()
 
 ```git clone [repo-URL]
 cd social-buzz-ai
@@ -317,10 +317,11 @@ pip install -r requirements.txt
 
 <br>
 
-### Quick Run
+### [Quick Run]()
 
-1. Configure API credentials and environment variables (check `/config/README.md`)  
-2. Run data ingestion:
+[1](). Configure API credentials and environment variables (check `/config/README.md`)  
+
+[2](). Run data ingestion:
 
  <br>  
 
@@ -330,10 +331,10 @@ python scripts/fetch_twitter_data.py
 
 <br>
 
-3. Explore data and modeling with notebooks in `/notebooks`  
+[3](). Explore data and modeling with notebooks in `/notebooks`  
 
 
-4. Launch the dashboard:
+[4](). Launch the dashboard:
 
 <br>
 
@@ -344,7 +345,7 @@ python scripts/run_dashboard.py
 <br>
 
 
-5. Generate automated reports:
+[5](). Generate automated reports:
 
 ```
 python scripts/generate_reports.py
@@ -352,11 +353,11 @@ python scripts/generate_reports.py
 
 <br>
 
-6. Check reports in `/docs/` (`auto_report.md` or `analytics_report.md`)  
+[6](). Check reports in `/docs/` (`auto_report.md` or `analytics_report.md`)  
 
 <br>
 
-### Environment Setup
+### [Environment Setup]()
 
 We use environment variables to secure API credentials. To get started:
 
