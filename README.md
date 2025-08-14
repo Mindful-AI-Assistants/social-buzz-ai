@@ -288,11 +288,11 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 <br>
 
-| Era              | Marketing 1.0              | Marketing 2.0                  | Marketing 3.0                   | Marketing 4.0                | Marketing 5.0                              | Marketing 6.0                                  |
+| [Era]()              | [Marketing 1.0]()              | [Marketing 2.0]()              | [Marketing 3.0]()                | [Marketing 4.0]()            | [Marketing 5.0]()                   | [Marketing 6.0]()                                  |
 | ---------------- | ------------------------- | ------------------------------ | ------------------------------- | ---------------------------- | ------------------------------------------- | ---------------------------------------------- |
-| Historical context| Industrial Revolution     | Information Age                | Globalization & Participation   | Digital Transformation        | Technology & Artificial Intelligence         | Sustainability & Digital Inclusion             |
-| Period           | Until 1970                | 1980 to 2000                   | 2000 to 2010                    | 2010 to 2020                 | From 2020 onwards                            | Near Future                                    |
-| Focus            | Product-centric           | Consumer-centric                | Human-centric                   | Connectivity & Experience    | Technology for well-being                    | Social and Environmental Impact                |
+| [Historical context| Industrial Revolution     | Information Age                | Globalization & Participation   | Digital Transformation        | Technology & Artificial Intelligence         | Sustainability & Digital Inclusion]()             |
+| [Period]()           | Until 1970                | 1980 to 2000                   | 2000 to 2010                    | 2010 to 2020                 | From 2020 onwards                            | Near Future                                    |
+| [Focus            | Product-centric           | Consumer-centric                | Human-centric                   | Connectivity & Experience    | Technology for well-being                    | Social and Environmental Impact]()                |
 | Differentiation  | Product                   | Value for the client            | Values and purpose              | Personalization & Experience | Data-driven innovation                       | Sustainable & ethical solutions                |
 | Values           | Functionality             | Benefits & satisfaction         | Ethics, Sustainability & Culture| Inclusion & Interactivity    | Humanization of technology                   | Collective responsibility                      |
 | Collaboration    | Almost nonexistent        | Client feedback                 | Co-creation of value            | Real-time digital interaction| Partnerships with advanced technologies      | Global collaborative ecosystems                |
