@@ -256,14 +256,14 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 | Topic | Description |
 | :-- | :-- |
-| **What is Marketing 4.0?** | Integration of offline and online marketing to create seamless, personalized, and connected customer journeys beyond mere product sales. |
-| **Importance of Marketing 4.0** | Addresses challenges/opportunities from digital transformation and changing consumer behaviors driven by connectivity and social media. |
-| **Integration of Online and Offline** | Consumers move fluidly between digital and physical worlds. Marketing 4.0 unifies these experiences for consistency and personalization. |
-| **Customer Empowerment and Inclusion** | Power shifts to consumers who share opinions publicly and co-create products and experiences, changing brand-consumer power dynamics. |
-| **Emotional Connection \& Authentic Communication** | Brands build trust through empathetic understanding, transparent messaging, and purposeful communication beyond selling products. |
-| **Personalization at Scale** | Utilization of data analytics and AI for effective segmentation and message tailoring to specific audience groups. |
-| **Focus on the Entire Customer Journey** | Every phase—awareness, purchase, post-sale—is an opportunity for personalized engagement and experience enhancement. |
-| **Social Media \& Digital Word-of-Mouth** | Influencers and peer reviews heavily impact consumer decisions, making social engagement indispensable. |
+| [**What is Marketing 4.0?**]() | Integration of offline and online marketing to create seamless, personalized, and connected customer journeys beyond mere product sales. |
+| [**Importance of Marketing 4.0**]() | Addresses challenges/opportunities from digital transformation and changing consumer behaviors driven by connectivity and social media. |
+| [**Integration of Online and Offline**]() | Consumers move fluidly between digital and physical worlds. Marketing 4.0 unifies these experiences for consistency and personalization. |
+| [**Customer Empowerment and Inclusion**]() | Power shifts to consumers who share opinions publicly and co-create products and experiences, changing brand-consumer power dynamics. |
+| [**Emotional Connection \& Authentic Communication**]() | Brands build trust through empathetic understanding, transparent messaging, and purposeful communication beyond selling products. |
+| [**Personalization at Scale**]() | Utilization of data analytics and AI for effective segmentation and message tailoring to specific audience groups. |
+| [**Focus on the Entire Customer Journey**]() | Every phase—awareness, purchase, post-sale—is an opportunity for personalized engagement and experience enhancement. |
+| [**Social Media \& Digital Word-of-Mouth**]() | Influencers and peer reviews heavily impact consumer decisions, making social engagement indispensable. |
 | **Digital Transformation** | Necessitates building trust and authentic connections in a market where consumers have unprecedented control. |
 | **Evolution of Marketing Models** | From Marketing 1.0 (product-centric) to 4.0 (connectivity and experience), progressing toward 6.0 (sustainability and digital inclusion). |
 | **Data-Driven Marketing and the 5 V’s** | Volume, Velocity, Variety, Veracity, and Value guide effective collection and use of big data in marketing. |
@@ -525,32 +525,6 @@ Our code uses `python-dotenv` to load these variables during runtime.
 <br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br>
-
-
 ## [Contributing]()
 
 Contributions welcome from psychoanalysts, AI researchers, linguists, and data scientists! Please:
@@ -562,7 +536,19 @@ Contributions welcome from psychoanalysts, AI researchers, linguists, and data s
 Submit issues or pull requests via GitHub.
 
 
-<br><br>
+<br>
+
+
+## [Bibliographic Reference]()
+
+<br>
+
+[*Philip Kotler*]() — [*The Evolution of Marketing*]()
+Kotler highlights that marketing today is fundamentally about the connections brands build with customers, facilitated by human-centric digital strategies and data empowerment rather than mere product promotion.
+
+
+
+<br>
 
 
 ## 💌 [Let the data flow... Ping Me !](mailto:fabicampanari@proton.me)
