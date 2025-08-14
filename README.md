@@ -302,9 +302,11 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 ### [Prerequisites]()
 
-- Python 3.8+  
-- pip (Python package manager)  
-- Access tokens for Social Media APIs (Twitter, Instagram) (see `/config` for setup)
+[-]() Python 3.8+  
+
+[-]() pip (Python package manager)  
+
+[-]() Access tokens for Social Media APIs (Twitter, Instagram) (see `/config` for setup)
 
 <br>
 
