@@ -296,10 +296,10 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 | [Focus]()            | Product-centric   | Consumer-centric           | Human-centric      | Connectivity & Experience    | Technology for well-being         | [Social and Environmental Impact]()          |
 | [Differentiation]()  | Product         | Value for the client        | Values and purpose      | Personalization & Experience | Data-driven innovation           | [Sustainable & ethical]() solutions       |
 | [Values]()        | Functionality        | Benefits & satisfaction       | Ethics, Sustainability & Culture| Inclusion & Interactivity    | Humanization of technology     | [Collective responsibility]()   |                
-| Collaboration    | Almost nonexiste | Client feedback       | Co-creation of value    | Real-time digital interaction| Partnerships with advanced technologies      | [Global collaborative ecosystems]()    |
+| [Collaboration]()    | Almost nonexiste | Client feedback       | Co-creation of value    | Real-time digital interaction| Partnerships with advanced technologies      | [Global collaborative ecosystems]() |
 | [Objective]()    | Sell, sell, sell    | Satisfy and retain clients      | Make the world a better place   | Engage the client          | Create sustainable value     | [Transform the world positively]()  |
-| [Consumer]( | Focused on basic needs    | More demanding                | More conscious            | More emotional & connected   | Protagonist of their journey      | [Engaged and socially active]()     |
-| Client interaction| One-to-many transactions | One-to-one relationsh    | Many-to-many collaboration      | Many-to-many digital collaboration | Immersive and personalized experience     | [Humanized and sustainable connections]()    |
+| [Consumer]() | Focused on basic needs    | More demanding                | More conscious            | More emotional & connected   | Protagonist of their journey      | [Engaged and socially active]()     |
+| Client interaction]() | One-to-many transactions | One-to-one relationsh    | Many-to-many collaboration      | Many-to-many digital collaboration | Immersive and personalized experience     | [Humanized and sustainable connections]()    |
 
 
 <br>
