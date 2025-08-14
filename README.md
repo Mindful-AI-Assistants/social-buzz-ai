@@ -279,7 +279,21 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 <br>
 
 
+## [Metrics & KPIs We Track]()
 
+<br>
+
+- [**Engagement Rate:**]() Likes, shares, comments relative to impressions  
+- [**Reach & Impressions:**]() Number of unique users who saw the content and total views  
+- [**Follower Growth:**]() Net new followers and retention trends  
+- [**Click-Through Rate (CTR):**]() Traffic driven from social posts to target URLs  
+- [**Sentiment Analysis:**]() Positive, neutral, negative signals derived via NLP  
+- [**Top Performing Content:**]() Ranked by engagement and conversion metrics  
+- [**Campaign ROI:**]() Return on ad spend for paid social campaigns  
+- [**Audience Demographics:**]() Age, gender, location, and interests of followers  
+- [**Conversion Metrics:**]() Sign-ups, purchases, or other key actions linked to social traffic  
+
+<br>
 
 
 
