@@ -241,7 +241,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 <br>
 
-### [Key Themes]() 
+###  <p align="center"> [Key Themes]() 
 
 <br>
 
@@ -270,7 +270,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 <br>
 
 
-### [B2B and B2C in Marketing 4.0]()
+###  <p align="center"> [B2B and B2C]() in Marketing 4.0
 
 <br>
 
@@ -284,7 +284,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 <br>
 
-### Digital [Transformation]()
+###  <p align="center"> Digital [Transformation]()
 
 <br>
                                 
