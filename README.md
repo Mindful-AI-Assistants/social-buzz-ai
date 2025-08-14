@@ -223,22 +223,34 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 ## [Project Objectives]()
 
-- Understand and quantify how social networks influence consumer behavior and decision-making  
-- Apply advanced data science methods to mine social media data for patterns and trends  
-- Develop AI-driven algorithms for personalized and precision-targeted marketing campaigns  
-- Build dashboards, visualizations, and automated reports that drive fast, confident marketing decisions  
-- Enable performance tracking with actionable KPIs and data storytelling to optimize future marketing sprints
+<br>
+
+[-]() Understand and quantify how social networks influence consumer behavior and decision-making  
+
+[-]() Apply advanced data science methods to mine social media data for patterns and trends  
+
+[-]() Develop AI-driven algorithms for personalized and precision-targeted marketing campaigns  
+
+[-]() Build dashboards, visualizations, and automated reports that drive fast, confident marketing decisions  
+
+[-]() Enable performance tracking with actionable KPIs and data storytelling to optimize future marketing sprints
 
 
 <br>
 
 ## [What We’re Building]()
 
-- Real-time and historical insights on social buzz and consumer sentiment  
-- Data pipelines to ingest, clean, and structure social feed data from APIs (e.g., Twitter, Instagram)  
-- Machine learning models for trend detection, sentiment classification, and campaign targeting  
-- Interactive dashboards and visual storytelling assets for marketing teams  
-- Automated reporting tools providing metric tracking, growth analysis, and ROI evaluations  
+<br>
+
+[-]() Real-time and historical insights on social buzz and consumer sentiment  
+
+[-]() Data pipelines to ingest, clean, and structure social feed data from APIs (e.g., Twitter, Instagram)  
+
+[-]() Machine learning models for trend detection, sentiment classification, and campaign targeting  
+
+[-]() Interactive dashboards and visual storytelling assets for marketing teams  
+
+[-]() Automated reporting tools providing metric tracking, growth analysis, and ROI evaluations  
 
 
 <br>
