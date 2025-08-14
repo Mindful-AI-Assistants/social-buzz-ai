@@ -55,8 +55,8 @@ https://github.com/user-attachments/assets/064aa6f8-ebb4-4370-8efd-7d79b29f390a
 
 - [What’s This?](#whats-this)  
 - [Why It Matters](#why-it-matters)
-- I - [Data-Driven Culture and CRM Data Quality]() 
-- II - [Marketing 4.0]() - Philip Kotler
+- I - [Data-Driven Culture and CRM Data Quality](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/7e4a728795bd44618d7e8f266dfbe0178fbb848d/class_1-%20Data%20Driven%20Culture) 
+- II - [Marketing 4.0](https://github.com/Mindful-AI-Assistants/social-buzz-ai/tree/7e4a728795bd44618d7e8f266dfbe0178fbb848d/class_1-%20Data%20Driven%20Culture) - Philip Kotler
 - [Project Objectives](#project-objectives)  
 - [What We’re Building](#what-were-building)  
 - [Repo Breakdown](#repo-breakdown)  
