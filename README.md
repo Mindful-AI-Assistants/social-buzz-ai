@@ -228,6 +228,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 <br><br>
 
+
 ## II - [Marketing 4.0]()
 
 <br>
@@ -248,7 +249,7 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 <br>
 
 
-## [Key Themes]() 
+### [Key Themes]() 
 
 
 <br>
@@ -278,7 +279,17 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 <br>
 
 
+### [B2B and B2C in Marketing 4.0]()
 
+<br>
+
+
+| Business Model | Key Focus \& Strategies |
+| :-- | :-- |
+| **B2B (Business-to-Business)** | Leveraging digital tools and data analytics for account-based marketing, personalized buyer journeys, and building trusted partnerships with long sales cycles. |
+| **B2C (Business-to-Consumer)** | Leveraging social media, influencers, AI-powered personalization for emotional connections and seamless shopping experiences, focusing on convenience and immediacy. |
+
+> *Both sectors benefit from Marketing 4.0’s data-driven personalization but differ in communication styles, content, and sales cycles.*
 
 
 
