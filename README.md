@@ -284,10 +284,10 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 
 <br>
 
-### [Digital Transformation]()
+### Digital [Transformation]()
 
 <br>
-                                |
+                                
 
 | [Era]()              | [Marketing 1.0]()              | [Marketing 2.0]()              | [Marketing 3.0]()                | [Marketing 4.0]()            | [Marketing 5.0]()                 | [Marketing 6.0]()                                   |
 | ---------------- | ------------------------- | ------------------------------ | ------------------------------- | ---------------------------- | ------------------------------------------- | ---------------------------------------------- |
