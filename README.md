@@ -380,9 +380,28 @@ Our code uses `python-dotenv` to load these variables during runtime.
 <br>
 
 
+## [How to Use This Repo]()
+
+<br>
+
+- **Data Scientists:** Build and refine models using the notebooks and scripts.  
+- **Marketing Teams:** Use dashboards and reports to optimize campaigns and engagement.  
+- **Project Leads:** Track progress and make strategic decisions using delivered insights.
 
 
+<br>
 
+
+## [Important Notes & Best Practices]()
+
+<br>
+
+- Keep API keys private, .env is gitignored.  
+- Follow coding standards and maintain test coverage.  
+- Use versioned data in `/data` for reproducibility.  
+- Iterate quickly and move validated code to automation scripts.
+
+<br>
 
 
 
