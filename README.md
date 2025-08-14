@@ -228,6 +228,53 @@ These findings highlight a [paradox in CRM data management](): organizations rec
 <br>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+
 ## [Project Objectives]()
 
 <br>
@@ -445,20 +492,6 @@ Our code uses `python-dotenv` to load these variables during runtime.
 
 
 
-
-
-
-
-
-
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
 
 
 
