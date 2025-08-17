@@ -44,19 +44,6 @@
 Welcome to [**Social Buzz AI**]() our MVP for cracking the code on social media trends and delivering laser-focused marketing hacks powered by data and AI. Built for the [Social Networks]() and [Marketing]() course at PUC-SP, this repo is the playground where we [prototype](), [test](), and evolve smart tools to help brands dominate digital spaces through real data-driven insights.
 
 
-<br><br>
-
-<!--GIF  -->
-
-<p align="center">
- <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04"/>
-
-
-
-<!--Video
-https://github.com/user-attachments/assets/064aa6f8-ebb4-4370-8efd-7d79b29f390a
--->
-
 
 <br><br>
 
