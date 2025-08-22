@@ -23,23 +23,37 @@
 
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
-<br><br>
 
 
-## ⚠️ [Important Notes]()
-
-
-- [Whenever possible](), projects and deliverables developed during the course will be made [publicly accessible]().
-
-- The course emphasizes [**practical, hands-on experience**]() with real datasets to emulate professional consulting scenarios in the field.
-
-- All activities and materials will strictly adhere to the [**academic and ethical guidelines of PUC-SP**](). Any content not authorized for public disclosure will remain [**confidential**]() and stored in [private repositories]().
-
+<!--Confidentiality statement -->
 
 <br><br>
 
+#
 
-## [What’s This ?]()
+
+### ⚠️ Heads Up 
+
+* Projects and deliverables may be made [publicly available]() whenever possible.
+
+* The course prioritizes [**hands-on practice**]() with real data in consulting scenarios.
+
+* All activities comply with the [**academic and ethical guidelines of PUC-SP**]().
+
+* [**Confidential information**]() from this repository remains private in [private repositories]().
+
+#  
+
+<br><br><br>
+
+<!-- End -->
+
+
+
+
+
+
+## Social Buzz AI -  [What’s This ?]()
 
 Welcome to [**Social Buzz AI**]() our MVP for cracking the code on social media trends and delivering laser-focused marketing hacks powered by data and AI. Built for the [Social Networks]() and [Marketing]() course at PUC-SP, this repo is the playground where we [prototype](), [test](), and evolve smart tools to help brands dominate digital spaces through real data-driven insights.
 
