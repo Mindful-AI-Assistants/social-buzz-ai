@@ -1024,9 +1024,45 @@ flowchart TB
 >
 
 
+
+
+
+
+
+
+============================== 📌ADD :LINK +++++++++++++++++++++++++
+
 <br><br>
 
+# IX - [Gradient Boosting Machines and Low-Default Modeling]() - Exercises
 
+
+<br><br>
+
+> [!TIP]
+>
+> * [Access](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling) Detailed Repository
+>
+> * [Access]() class 9 Full Content - Workbook, Datraset and Code
+>
+
+
+<br><br>
+
+# X - [Gradient Boosting Machines and Low-Default Modeling]() - Test in Class
+
+
+<br><br>
+
+> [!TIP]
+>
+> * [Access](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling) Detailed Repository
+>
+> * [Access]() class 10 Full Content - Workbook, Datraset and Code
+>
+
+
+<br><br>
 
 
 
