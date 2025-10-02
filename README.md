@@ -1064,6 +1064,21 @@ flowchart TB
 
 <br><br>
 
+# X! - [Support Vector Machines]() - SVM
+
+
+<br><br>
+
+> [!TIP]
+>
+> * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) Detailed Repository
+>
+> * [Access](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/72d6617c91aa99783f36ddb00731fd6d4991e2f4/class__11-Support_Vector_Machines(SVM)) class 11 Full Content - Workbook, Dataset, Code and more !
+>
+
+
+<br><br>
+
 
 
 
