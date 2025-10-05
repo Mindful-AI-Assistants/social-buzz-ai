@@ -37,7 +37,7 @@
 
 > [!TIP]
 >
-> * [Extension_Project - Exploratory]()
+> * [Extension_Project - Exploratory](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/85e2162c85453571eec2db30eeb3342ee16dd39d/%E2%9A%A0%EF%B8%8F%20Extension_Project_Coord_Prof_Erick/dataset)
 >
 >
 
