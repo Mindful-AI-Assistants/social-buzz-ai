@@ -35,6 +35,15 @@
 
 <br><br>
 
+> [!TIP]
+>
+> * [Extension_Project - Exploratory]()
+>
+>
+
+
+<br><br>
+
 
 > [!IMPORTANT]
 >
