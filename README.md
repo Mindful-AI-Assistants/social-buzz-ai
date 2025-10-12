@@ -1089,7 +1089,7 @@ flowchart TB
 
 <br><br>
 
-# X! - [Support Vector Machines]() - SVM
+# XI - [Support Vector Machines]() - SVM
 
 
 <br><br>
@@ -1105,7 +1105,12 @@ flowchart TB
 <br><br>
 
 
+# XII - [Project Vector Machines]() - SVM
 
+> [!TIP]
+>
+> * [Access](): project_SVM - Briefinbg + Dataset + Code and Data Analysing Report
+>
 
 
 
