@@ -1076,7 +1076,7 @@ flowchart TB
 >
 > * [Access](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling) Detailed Repository
 >
-> * [Access]() class 10 Full Content - Workbook, Datraset and Code
+> * [Access](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/blob/e70fc8beb962d9e6a92312aa8fab1fef2c5fe3ae/class__10-2st%20Test%20GBOOST/Workbook_GBoost/GBoost.pdf) class 10 Full Content - Workbook, Datraset and Code
 >
 
 
@@ -1099,7 +1099,7 @@ flowchart TB
 <br><br>
 
 
-# XII - [Project Vector Machines](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/40f76600b697485a17d7d7e4ac55888cae1dcc67/class__12-project_SVM) - SVM
+# XII - [Project Vector Machines]() - SVM
 
 <br><br>
 
