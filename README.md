@@ -1043,26 +1043,19 @@ flowchart TB
 
 > [!TIP]
 >
-> * [Access](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling) Detailed Repository
+> * [Access](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling) GBOOST and Low Default Modeling Detailed Repository
 >
-> * [Access]() class 8 Full Content - Workbook, Datraset and Code
+> * [Access](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling/blob/a7dd52215a5e4fd90836f51adcc0d1408aab7de2/Workbook_GBoost/GBoost.pdf) class 8 Full Content - Workbook, Datraset and Code
 >
 
-
-
-
-
-
-
-
-============================== 📌ADD :LINK +++++++++++++++++++++++++
 
 <br><br>
+
 
 # IX - [Gradient Boosting Machines and Low-Default Modeling]() - Exercises
 
-
 <br><br>
+
 
 > [!TIP]
 >
@@ -1076,8 +1069,8 @@ flowchart TB
 
 # X - [Gradient Boosting Machines and Low-Default Modeling]() - Test in Class
 
-
 <br><br>
+
 
 > [!TIP]
 >
@@ -1094,6 +1087,7 @@ flowchart TB
 
 <br><br>
 
+
 > [!TIP]
 >
 > * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) SVM Detailed Repository
@@ -1107,6 +1101,9 @@ flowchart TB
 
 # XII - [Project Vector Machines](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/40f76600b697485a17d7d7e4ac55888cae1dcc67/class__12-project_SVM) - SVM
 
+<br><br>
+
+
 > [!TIP]
 >
 > * [Access](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/a885c636379c4e006d8a9150936a2ba29d2c967d/class__12-project_SVM): Project SVM - Briefinbg + Dataset + Code and Data Analysing Report
@@ -1117,10 +1114,20 @@ flowchart TB
 
 <br><br>
 
+# XIII -[]()
 
+<br><br>
 
-
-
+> [!TIP]
+>
+> 
+>
+>
+>
+>
+>
+> * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) SVM Detailed Repository
+>
 
 
 
