@@ -1096,7 +1096,7 @@ flowchart TB
 
 > [!TIP]
 >
-> * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) Detailed Repository
+> * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) SVM Detailed Repository
 >
 > * [Access](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/72d6617c91aa99783f36ddb00731fd6d4991e2f4/class__11-Support_Vector_Machines(SVM)) class 11 Full Content - Workbook, Dataset, Code and more !
 >
@@ -1109,13 +1109,13 @@ flowchart TB
 
 > [!TIP]
 >
-> * [Access](): project_SVM - Briefinbg + Dataset + Code and Data Analysing Report
+> * [Access](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/a885c636379c4e006d8a9150936a2ba29d2c967d/class__12-project_SVM): Project SVM - Briefinbg + Dataset + Code and Data Analysing Report
+>
+> * [Access](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) SVM Detailed Repository
 >
 
 
-
-
-
+<br><br>
 
 
 
