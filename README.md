@@ -1105,7 +1105,7 @@ flowchart TB
 <br><br>
 
 
-# XII - [Project Vector Machines]() - SVM
+# XII - [Project Vector Machines](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/40f76600b697485a17d7d7e4ac55888cae1dcc67/class__12-project_SVM) - SVM
 
 > [!TIP]
 >
