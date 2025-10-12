@@ -1061,7 +1061,7 @@ flowchart TB
 >
 > * [Access](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling) Detailed Repository
 >
-> * [Access]() class 9 Full Content - Workbook, Datraset and Code
+> * [Access](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/d29c1d56db058e0f83a6fb5a7f40e720bf8ae436/class_9-2st_Test_GBOOST_Agorthims) class 9 Full Content - Workbook, Datraset and Code
 >
 
 
