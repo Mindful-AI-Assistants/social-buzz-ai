@@ -46,7 +46,7 @@
 > 
 > * [2-social-buzz-ai-GBoost-and-LowDefault-Modeling](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling) – Focused on Gradient Boosting and Low Default modeling strategies.
 > 
-> * [3-social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) – Dedicated to Natural Language Processing insights and social media data analysis.
+> * [3-social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) – Dedicated to achieving a deep and practical mastery of Support Vector Machines (SVM), combining theoretical insight with applied analysis
 > 
 > Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, > predictive modeling, and AI-driven insights.
 > 
