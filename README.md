@@ -42,11 +42,11 @@
 > <br>
 >
 > 
-> This main Repos: 1-social-buzz-ai-main includes several specialized sub-repositories that contribute to its overall framework and analyses. Some of the key > > participant repositories are:
+> This main Repo: 1-social-buzz-ai-main includes several specialized sub-repositories that contribute to its overall framework and analyses. Some of the key > > participant repositories are:
 > 
 > * [2-social-buzz-ai-GBoost-and-LowDefault-Modeling](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling) – Focused on Gradient Boosting and Low Default modeling strategies.
 > 
-> * [3-social-buzz-ai-Support-Vector-Machines-SVM]() – Dedicated to Natural Language Processing insights and social media data analysis.
+> * [3-social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) – Dedicated to Natural Language Processing insights and social media data analysis.
 > 
 > Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, > predictive modeling, and AI-driven insights.
 > 
