@@ -39,7 +39,16 @@
 >
 > * [Extension_Project - Exploratory](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/85e2162c85453571eec2db30eeb3342ee16dd39d/%E2%9A%A0%EF%B8%8F%20Extension_Project_Coord_Prof_Erick/dataset)
 >
->
+> 
+> This main project 1-social-buzz-ai-main includes several specialized sub-repositories that contribute to its overall framework and analyses. Some of the key > > participant repositories are:
+> 
+> * [2-social-buzz-ai-GBoost-and-LowDefault-Modeling]() – Focused on Gradient Boosting and Low Default modeling strategies.
+> 
+> * [3-social-buzz-ai-Support-Vector-Machines-SVM]() – Dedicated to Natural Language Processing insights and social media data analysis.
+> 
+> Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, > predictive modeling, and AI-driven insights.
+> 
+> <br>
 
 
 <br><br>
