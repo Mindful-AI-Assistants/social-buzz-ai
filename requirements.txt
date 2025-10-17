@@ -4,7 +4,7 @@
 # Framework Web Application:
 
 streamlit==1.50.0
-Django==5.1.13
+Django==5.2.7
 
 
 # Data Manipulation Libraries:
