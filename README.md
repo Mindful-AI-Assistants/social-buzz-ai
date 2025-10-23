@@ -50,7 +50,7 @@
 > 
 > Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, > predictive modeling, and AI-driven insights.
 >  
-> * [4-social-buzz-ai--Natural_Language_Processing-NLP](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NLP/edit/main/README.md)
+> * [4-social-buzz-ai--Natural_Language_Processing-NLP](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1)
 >
 > <br>
 
