@@ -49,14 +49,12 @@
 > * [3-social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) – Dedicated to achieving a deep and practical mastery of Support Vector Machines (SVM), combining theoretical insight with applied analysis
 > 
 > Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, > predictive modeling, and AI-driven insights.
-> 
-> 
-> * [4-social-buzz-ai--Natural_Language_Processing-NLP](ps://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NLP)
-
-
+>  
+> * [4-social-buzz-ai--Natural_Language_Processing-NLP](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NLP/edit/main/README.md)
+>
 > <br>
 
-htt
+
 
 
 <br><br>
