@@ -43,6 +43,8 @@
 >
 > * [Mini Project - Fake News Detection using Machine Learning Algorithms](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br)
 >
+> * [Project - NLP - Reviews - on - X (Twitter)](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2/tree/main/Project_NLP_Reviews_on_X)
+>   
 >  <br>
 > 
 > * [This main Repo:](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main) 1-social-buzz-ai-main includes several specialized sub-repositories that contribute to its overall framework and analyses. Some of the key participant repositories are:
