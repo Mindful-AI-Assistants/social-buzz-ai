@@ -56,7 +56,7 @@
 >
 > 
 >
-> * [6- Social Buzz AI - Fake News Detection Using Machine Learning](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br)
+> * [6- Social Buzz AI - Fake News Detection Using Machine Learning](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br) - Academic project for Fake News detection using Machine Learning algorithms applied to Portuguese language data, focused on testing and comparing supervised models.
 >
 >
 > <br>
