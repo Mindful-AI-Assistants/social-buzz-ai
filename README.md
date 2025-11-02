@@ -54,7 +54,7 @@
 >  
 > * [4-social-buzz-ai--Natural_Language_Processing-NLP](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1)
 >
-> 
+> * [5- Social [Buzz AI]() - Natural Language Processing (NLP) - [Class 2]() - Lesson on Vector Representations and Text Classification]()
 >
 > * [6- Social Buzz AI - Fake News Detection Using Machine Learning](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br) - Academic project for Fake News detection using Machine Learning algorithms applied to Portuguese language data, focused on testing and comparing supervised models.
 >
