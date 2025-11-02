@@ -39,7 +39,7 @@
 >
 > * [Extension_Project - Exploratory](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/85e2162c85453571eec2db30eeb3342ee16dd39d/%E2%9A%A0%EF%B8%8F%20Extension_Project_Coord_Prof_Erick/dataset)
 >
-> * [Mini Project](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/106d175b833a6697240944e68bf4a0584ea8b35a/papers_mini_projecct)
+> * [Mini Projects](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/106d175b833a6697240944e68bf4a0584ea8b35a/papers_mini_projecct)
 >
 > * [Mini Project - Fake News Detection using Machine Learning Algorithms](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br)
 >
