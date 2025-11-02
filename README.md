@@ -54,8 +54,12 @@
 >  
 > * [4-social-buzz-ai--Natural_Language_Processing-NLP](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1)
 >
+> 
+>
+> * [6- Social Buzz AI - Fake News Detection Using Machine Learning](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br)
+>
+>
 > <br>
-
 
 
 
