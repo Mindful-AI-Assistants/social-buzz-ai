@@ -64,17 +64,18 @@
 > Academic project for Fake News  detection using Machine Learning algorithms applied to Portuguese language data, focused on testing and comparing supervised 
 > <br>
 >
-> * [Extension_Project - Exploratory]()
+> * [Extension_Project - Exploratory]() <br>
 > <br>
 >
-> * [Mini Projects](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/106d175b833a6697240944e68bf4a0584ea8b35a/papers_mini_projecct)
+> * [Mini Projects](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/106d175b833a6697240944e68bf4a0584ea8b35a/papers_mini_projecct) <br>
+>  <br>
 >
 > * [Mini Project - Fake News Detection using Machine Learning Algorithms](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br)
 >
 > * [Project - NLP - Reviews - on - X (Twitter)](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2/tree/main/Project_NLP_Reviews_on_X)
 >  
 > <br>
-
+> 
 
 
 <br><br>
