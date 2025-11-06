@@ -53,6 +53,7 @@
 > 
 > * [2-social-buzz-ai-GBoost-and-LowDefault-Modeling](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling): <br>
 > Focused on Gradient Boosting and Low Default modeling strategies.
+>  <br>
 > 
 > * [3-social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) – Dedicated to achieving a deep and practical mastery of Support Vector Machines (SVM), combining theoretical insight with applied analysis
 > 
