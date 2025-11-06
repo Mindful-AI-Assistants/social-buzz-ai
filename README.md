@@ -51,8 +51,8 @@
 >  Dedicated to achieving a deep and practical mastery of Support Vector Machines (SVM), combining theoretical insight with applied analysis.
 >  <br>
 >  
->  - Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, > predictive modeling, and 
->  AI- driven insights.
+>  - ***Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, predictive modeling, and 
+>  AI- driven insights.***
 > <br>
 >  
 >
