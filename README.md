@@ -55,11 +55,13 @@
 > Focused on Gradient Boosting and Low Default modeling strategies.
 >  <br>
 > 
-> * [3-social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM) – Dedicated to achieving a deep and practical mastery of Support Vector Machines (SVM), combining theoretical insight with applied analysis
-> 
-> Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, > predictive modeling, and AI-driven insights.
+> * [3-social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM):
+>  Dedicated to achieving a deep and practical mastery > > of Support Vector Machines (SVM), combining theoretical insight with applied analysis.
+>  Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, > predictive modeling, and AI-> 
+> driven insights.
+> <br>
 >  
-> * [4- Social Buss: NLP - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1) -  This repository provides resources and practical implementations for Natural Language Processing (NLP) focused on social media data analysis. It includes tutorials and demos on NLP preprocessing techniques such as regex, tokenization, lemmatization, stemming, count vectorization, and stopword removal. 
+> * [4- Social Buss: NLP - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1) -  This repository provides resources and practical > > implementations for Natural Language Processing (NLP) focused on social media data analysis. It includes tutorials and demos on NLP preprocessing techniques such as regex, tokenization, lemmatization, stemming, count vectorization, and stopword removal. 
 >
 > * [5- Social Buzz AI- Natural Language Processing (NLP) - Class 2](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2) - Lesson on Vector Representations and Text Classification.
 >
