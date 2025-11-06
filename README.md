@@ -48,7 +48,8 @@
 >  <br>
 > 
 > * [This main Repo:](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main): <br>
-> 1-social-buzz-ai-main includes several specialized sub-repositories that contribute to its overall framework and analyses. Some of the key participant repositories are:
+> 1-social-buzz-ai-main includes several specialized sub-repositories that contribute to its overall framework and analyses. Some of the key participant repositories are: 
+>  <br>
 > 
 > * [2-social-buzz-ai-GBoost-and-LowDefault-Modeling](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling): <br>
 > Focused on Gradient Boosting and Low Default modeling strategies.
