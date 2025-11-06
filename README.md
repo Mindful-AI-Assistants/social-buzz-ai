@@ -36,15 +36,7 @@
 <br><br>
 
 > [!TIP]
->
-> * [Extension_Project - Exploratory](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/85e2162c85453571eec2db30eeb3342ee16dd39d/%E2%9A%A0%EF%B8%8F%20Extension_Project_Coord_Prof_Erick/dataset)
->
-> * [Mini Projects](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/106d175b833a6697240944e68bf4a0584ea8b35a/papers_mini_projecct)
->
-> * [Mini Project - Fake News Detection using Machine Learning Algorithms](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br)
->
-> * [Project - NLP - Reviews - on - X (Twitter)](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2/tree/main/Project_NLP_Reviews_on_X)
->   
+> 
 >  <br>
 > 
 > * [This main Repo:](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main): <br>
@@ -58,16 +50,27 @@
 > * [3-social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM):
 >  Dedicated to achieving a deep and practical mastery > > of Support Vector Machines (SVM), combining theoretical insight with applied analysis.
 >  Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, > predictive modeling, and AI-> 
-> driven insights.
+>  driven insights.
 > <br>
 >  
-> * [4- Social Buss: NLP - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1) -  This repository provides resources and practical > > implementations for Natural Language Processing (NLP) focused on social media data analysis. It includes tutorials and demos on NLP preprocessing techniques such as regex, tokenization, lemmatization, stemming, count vectorization, and stopword removal. 
 >
-> * [5- Social Buzz AI- Natural Language Processing (NLP) - Class 2](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2) - Lesson on Vector Representations and Text Classification.
+> * [5- Social Buzz AI- Natural Language Processing (NLP) - Class 2](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2):
+>  Lesson on Vector Representations and Text Classification.
+>  <br>
 >
-> * [6- Social Buzz AI - Fake News Detection Using Machine Learning](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br) - Academic project for Fake News detection using Machine Learning algorithms applied to Portuguese language data, focused on testing and comparing supervised models.
+> * [6- Social Buzz AI - Fake News Detection Using Machine Learning](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br):
+> Academic project for Fake News > 
+>  detection using Machine Learning algorithms applied to Portuguese language data, focused on testing and comparing supervised 
+> <br>
 >
+> * [Extension_Project - Exploratory](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/85e2162c85453571eec2db30eeb3342ee16dd39d/%E2%9A%A0%EF%B8%8F%20Extension_Project_Coord_Prof_Erick/dataset)
 >
+> * [Mini Projects](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/106d175b833a6697240944e68bf4a0584ea8b35a/papers_mini_projecct)
+>
+> * [Mini Project - Fake News Detection using Machine Learning Algorithms](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br)
+>
+> * [Project - NLP - Reviews - on - X (Twitter)](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2/tree/main/Project_NLP_Reviews_on_X)
+>  
 > <br>
 
 
