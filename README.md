@@ -43,11 +43,11 @@
 > 1-social-buzz-ai-main includes several specialized sub-repositories that contribute to its overall framework and analyses. Some of the key participant repositories are: 
 >  <br>
 > 
-> * [2-social-buzz-ai-GBoost-and-LowDefault-Modeling](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling): <br>
+> * 2- [social-buzz-ai-GBoost-and-LowDefault-Modeling](https://github.com/Mindful-AI-Assistants/2-social-buzz-ai-GBoost-and-LowDefault-Modeling): <br>
 > Focused on Gradient Boosting and Low Default modeling strategies.
 >  <br>
 > 
-> * [3-social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM): <br>
+> * 3- [social-buzz-ai-Support-Vector-Machines-SVM](https://github.com/Mindful-AI-Assistants/3-social-buzz-ai-Support-Vector-Machines-SVM): <br>
 >  Dedicated to achieving a deep and practical mastery of Support Vector Machines (SVM), combining theoretical insight with applied analysis.
 >  <br>
 >  
@@ -56,13 +56,15 @@
 > <br>
 >  
 >
-> * [5- Social Buzz AI- Natural Language Processing (NLP) - Class 2](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2): <br>
+> * 5- [Social Buzz AI- Natural Language Processing (NLP) - Class 2](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2): <br>
 >  Lesson on Vector Representations and Text Classification.
 >  <br>
 >
-> * [6- Social Buzz AI - Fake News Detection Using Machine Learning](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br): <br>
+> * 6- [Social Buzz AI - Fake News Detection Using Machine Learning](https://github.com/Mindful-AI-Assistants/6-social-buzz-ai-fake-news-detection-ml-br): <br>
 > Academic project for Fake News  detection using Machine Learning algorithms applied to Portuguese language data, focused on testing and comparing supervised 
 > <br>
+>
+> * 7- [Social Buzz AI - Black Box Models in AI and Data Science](https://github.com/Mindful-AI-Assistants/7-social-buzz-ai-Black-Box-Models--in-AI--Data-Science)
 >
 > * [Extension_Project - Exploratory](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/main/%E2%9A%A0%EF%B8%8F%20Extension_Project_Coord_Prof_Erick/dataset) <br>
 > <br>
