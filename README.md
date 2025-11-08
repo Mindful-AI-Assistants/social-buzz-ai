@@ -70,7 +70,7 @@
 > * 8- [Social Buzz AI - Extension project](https://github.com/Mindful-AI-Assistants/8-social-buzz-ai-Extension-project) <br>
 > <br>
 >
-> * [Project - NLP - Reviews - on - X (Twitter)](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2/tree/main/Project_NLP_Reviews_on_X) <br>
+> * [Extra Project - NLP - Reviews - on - X (Twitter)](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2/tree/main/Project_NLP_Reviews_on_X) <br>
 >  <br>
 > 
 
