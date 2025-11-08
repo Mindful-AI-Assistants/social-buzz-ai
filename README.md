@@ -52,8 +52,8 @@
 >  <br>
 >  
 >  * 4- [Social Buzz AI - Natural Language Processing (NLP) - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1): <br>
-: <br>
->  
+<br>
+>  This repository provides resources and practical implementations for Natural Language Processing (NLP) focused on social media data analysis. It includes tutorials and demos on NLP preprocessing techniques such as regex, tokenization, lemmatization, stemming, count vectorization, and stopword removal.  
 >
 > * 5- [Social Buzz AI- Natural Language Processing (NLP) - Class 2](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2): <br>
 >  Lesson on Vector Representations and Text Classification.
