@@ -51,9 +51,8 @@
 >  Dedicated to achieving a deep and practical mastery of Support Vector Machines (SVM), combining theoretical insight with applied analysis.
 >  <br>
 >  
->  - [*Each repository contributes unique datasets, modeling approaches, and analyses, making the main repository a comprehensive resource for exploring social buzz, predictive modeling, and 
->  AI- driven insights.*]()
-> <br>
+>  * 4- [Social Buzz AI - Natural Language Processing (NLP) - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1): <br>
+: <br>
 >  
 >
 > * 5- [Social Buzz AI- Natural Language Processing (NLP) - Class 2](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2): <br>
