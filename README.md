@@ -64,7 +64,9 @@
 > Academic project for Fake News  detection using Machine Learning algorithms applied to Portuguese language data, focused on testing and comparing supervised 
 > <br>
 >
-> * 7- [Social Buzz AI - Black Box Models in AI and Data Science](https://github.com/Mindful-AI-Assistants/7-social-buzz-ai-Black-Box-Models--in-AI--Data-Science)
+> * 7- [Social Buzz AI - Black Box Models in AI and Data Science](https://github.com/Mindful-AI-Assistants/7-social-buzz-ai-Black-Box-Models--in-AI--Data-Science): <br>
+> black box model﻿ is an AI or machine learning system whose internal decision-making processes are hidden, providing only inputs and outputs without revealing how outcomes are derived. These models offer high accuracy for complex tasks but pose challenges for interpretability and trust.
+> <br>
 >
 > * [Extension_Project - Exploratory](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main/tree/main/%E2%9A%A0%EF%B8%8F%20Extension_Project_Coord_Prof_Erick/dataset) <br>
 > <br>
