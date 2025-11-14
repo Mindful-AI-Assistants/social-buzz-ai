@@ -64,10 +64,11 @@
 > <br>
 >
 > * 7- [Social Buzz AI - Black Box Models in AI and Data Science](https://github.com/Mindful-AI-Assistants/7-social-buzz-ai-Black-Box-Models--in-AI--Data-Science): <br>
-> black box model﻿ is an AI or machine learning system whose internal decision-making processes are hidden, providing only inputs and outputs without revealing how outcomes are derived. These models offer high accuracy for complex tasks but pose challenges for interpretability and trust.
+> Black box model﻿ is an AI or machine learning system whose internal decision-making processes are hidden, providing only inputs and outputs without revealing how outcomes are derived. These models offer high accuracy for complex tasks but pose challenges for interpretability and trust.
 > <br>
 >
-> * 8- [Social Buzz AI - Extension Project - Academic Performance Analytics](https://github.com/Mindful-AI-Assistants/8-social-buzz-ai-Project-Academic_Performance_Analytics) <br>
+> * 8- [Social Buzz AI - Extension Project - Academic Performance Analytics](https://github.com/Mindful-AI-Assistants/8-social-buzz-ai-Project-Academic_Performance_Analytics): <br>
+A data analysis project focused on exploring student performance using anonymized academic records. Includes data cleaning, exploratory analysis, feature engineering, and predictive modeling to uncover insights into the factors that influence student outcomes.
 > <br>
 >
 > * [Extra Project - NLP - Reviews - on - X (Twitter)](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2/tree/main/Project_NLP_Reviews_on_X) <br>
