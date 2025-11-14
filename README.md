@@ -67,7 +67,7 @@
 > black box model﻿ is an AI or machine learning system whose internal decision-making processes are hidden, providing only inputs and outputs without revealing how outcomes are derived. These models offer high accuracy for complex tasks but pose challenges for interpretability and trust.
 > <br>
 >
-> * 8- [Social Buzz AI - Extension project](https://github.com/Mindful-AI-Assistants/8-social-buzz-ai-Extension-project) <br>
+> * 8- [Social Buzz AI - Extension Project - Academic Performance Analytics](https://github.com/Mindful-AI-Assistants/8-social-buzz-ai-Project-Academic_Performance_Analytics) <br>
 > <br>
 >
 > * [Extra Project - NLP - Reviews - on - X (Twitter)](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2/tree/main/Project_NLP_Reviews_on_X) <br>
