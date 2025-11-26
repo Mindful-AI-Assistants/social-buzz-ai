@@ -72,7 +72,7 @@
 > Black box model﻿ is an AI or machine learning system whose internal decision-making processes are hidden, providing only inputs and outputs without revealing how outcomes are derived. These models offer high accuracy for complex tasks but pose challenges for interpretability and trust.
 > <br>
 >
-> * 8- [Social Buzz AI - Extension Project - Academic Performance Analytics](https://github.com/Mindful-AI-Assistants/8-social-buzz-ai-Project-Academic_Performance_Analytics): <br>
+> * 8- [**Social Buss: Extension Project: Social Pulse - A Machine Learning Approach to Academic Performance Modeling and Analytics**](https://github.com/Mindful-AI-Assistants/8-social-buzz-ai-Project-Social-Pulse-A-Machine-Learning-Approach-to-Academic-Performance-Modeling): <br>
 A data analysis project focused on exploring student performance using anonymized academic records. Includes data cleaning, exploratory analysis, feature engineering, and predictive modeling to uncover insights into the factors that influence student outcomes.
 > <br>
 >
