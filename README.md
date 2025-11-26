@@ -37,7 +37,7 @@
 
 <br><br>
 
-> [!TIP]
+> [!IMPORTANT]
 > 
 >  <br>
 > 
@@ -83,7 +83,7 @@ A sentiment analysis project that uses a Multinomial Naive-Bayes model and N-gra
 <br><br>
 
 
-> [!IMPORTANT]
+> [!NOTE]
 >
 > ⚠️ Heads Up 
 >
@@ -106,7 +106,7 @@ A sentiment analysis project that uses a Multinomial Naive-Bayes model and N-gra
 
 > [!TIP]
 >
->  Extras Links We Use:
+> * Extras Links We Use:
 >
 > - [Qlik](https://www.qlik.com/us)
 >
