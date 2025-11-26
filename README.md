@@ -44,7 +44,7 @@
 > 
 >  <br>
 > 
-> * [This main Repo:](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main): <br>
+> * [This main repository](https://github.com/Mindful-AI-Assistants/1-social-buzz-ai-main): <br>
 > 1-social-buzz-ai-main is the central hub for this discipline, aggregating all project files, documentation, and links to the related sub-repositories. Some of the key repos are: 
 >  <br>
 > 
