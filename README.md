@@ -72,8 +72,10 @@ A data analysis project focused on exploring student performance using anonymize
 > <br>
 >
 > * [Extra Project - NLP - Reviews - on - X (Twitter)](https://github.com/Mindful-AI-Assistants/5-social-buzz-ai--Natural_Language_Processing-NL-Class_2/tree/main/Project_NLP_Reviews_on_X) <br>
->  <br>
+A sentiment analysis project that uses a Multinomial Naive-Bayes model and N-gram features to classify product reviews into three sentiment categories (negative, neutral, positive). The work is implemented in a fully documented and executable Jupyter Notebook following a 9-step workflow, including data cleaning, NLP preprocessing, vectorization, model training, evaluation, and an interactive prediction demo.
+> <br>
 > 
+
 
 
 <br><br>
