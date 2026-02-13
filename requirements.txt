@@ -4,12 +4,12 @@
 # Framework Web Application:
 
 
-streamlit==1.52.1
+streamlit==1.52.2
 Django==6.0
 
 
 # Data Manipulation Libraries:
-numpy==2.3.5
+numpy==2.4.0
 pandas==2.3.3
 
 # Data Visualization Libraries:
@@ -22,10 +22,12 @@ scikit-learn==1.8.0
 
 
 # Machine Learning Libraries:
+
+
+keras==3.13.1
 tensorflow==2.20.0
-keras==3.13.0
-tensorflow==2.20.0
-keras==3.13.0
+keras==3.13.1
+
 
 
 # Natural Language Processing Libraries:
@@ -42,9 +44,9 @@ psycopg2-binary==2.9.11
 
 # Jupyter Notebook Libraries:
 jupyter==1.1.1
-notebook==7.5.0
+notebook==7.5.1
 ipywidgets==8.1.8
 
 # Other Useful Libraries:
-joblib==1.5.2
+joblib==1.5.3
 
