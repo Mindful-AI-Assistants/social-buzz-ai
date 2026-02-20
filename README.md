@@ -56,7 +56,7 @@
 >  Dedicated to achieving a deep and practical mastery of Support Vector Machines (SVM), combining theoretical insight with applied analysis.
 >  <br>
 >
->    * 4- [Social Buzz AI - Natural Language Processing (NLP) - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NL-Class_1): <br>
+>    * 4- [Social Buzz AI - Natural Language Processing (NLP) - Class 1](https://github.com/Mindful-AI-Assistants/4-social-buzz-ai--Natural_Language_Processing-NLP-Class_1): <br>
 >  This repository provides resources and practical implementations for Natural Language Processing (NLP) focused on social media data analysis. It includes tutorials and demos on NLP preprocessing techniques such as regex, tokenization, lemmatization, stemming, count vectorization, and stopword removal.  
 >  <br>
 > 
