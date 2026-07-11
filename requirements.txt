@@ -5,12 +5,12 @@
 
 
 streamlit==1.52.2
-Django==6.0.2
+Django==6.0.5
 
 
 # Data Manipulation Libraries:
-numpy==2.4.0
-pandas==3.0.0
+numpy==2.4.2
+pandas==2.3.3
 
 # Data Visualization Libraries:
 matplotlib==3.10.8
@@ -24,14 +24,14 @@ scikit-learn==1.8.0
 # Machine Learning Libraries:
 
 
-keras==3.13.1
+keras==3.13.2
 tensorflow==2.20.0
-keras==3.13.1
+keras==3.13.2
 
 
 
 # Natural Language Processing Libraries:
-nltk==3.9.2
+nltk==3.10.0
 spacy==3.8.11
 
 # Web Scraping Libraries:
@@ -44,7 +44,7 @@ psycopg2-binary==2.9.11
 
 # Jupyter Notebook Libraries:
 jupyter==1.1.1
-notebook==7.5.1
+notebook==7.5.6
 ipywidgets==8.1.8
 
 # Other Useful Libraries:
