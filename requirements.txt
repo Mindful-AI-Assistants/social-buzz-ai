@@ -1,6 +1,6 @@
 
 # Framework Web Application:
-Django==6.0.2
+Django==6.0.7
 streamlit==1.52.2
 
 
